@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdelrahmanMahmoud01
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning in backend tech
-- 💞️ I’m looking to collaborate on large scale projects
+- 💞️ I’m looking for a job as junior dotnet developer
 - 📫 How to reach me : abdu_boro@yahoo.com - 01285520246
 
 <!---
